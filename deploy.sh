@@ -23,5 +23,3 @@ git commit -m 'deploy'
 git push -f git@github.com:Perkins1220/synewave-dev.git main:gh-pages
 
 cd -
-
-read -rn1
